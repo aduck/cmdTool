@@ -1,0 +1,17 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ghost.js",
+  "bin": {
+    "ghost": "./ghost.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^7.0.1"
+  }
+}
